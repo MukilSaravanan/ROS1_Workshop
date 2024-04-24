@@ -106,55 +106,55 @@ You can opt for either option based on your preference.
 <summary>5. Install Ubuntu alongside with Windows</summary>
 Start the installation procedure. The first few steps are simple. You choose the language and keyboard layout.
 
-![](assets\install_ubuntu_2.jpg)
+![](assets/install_ubuntu_2.jpg)
 
 On the next screen, choose **'Normal installation'** without installing other third parties applications.
 
-![](assets\choose-installation-dual-boot-800x497.webp)
+![](assets/choose-installation-dual-boot-800x497.webp)
 
 Hit continue. It may take some time to go to the next step.
 
 Click on **'Something Else'** and continue
 
-![](assets\install-ubuntu-something-else-800x485.jpg)
+![](assets/access-uefi-settings-windows.webpinstall-ubuntu-something-else-800x485.jpg)
 
 Select the free space and click on the + sign.
 
-![](assets\Installing_Windows8_Ubuntu_2.jpeg)
+![](assets/Installing_Windows8_Ubuntu_2.jpeg)
 
 It will provide you with the option to create a Linux partition. You are creating the Root partition. Anything above 25 GB is more than sufficient for it. Choose the size, select Ext 4 as the file type and / (means root) as the mount point.
-![](assets\Installing_Windows8_Ubuntu_3.webp)
+![](assets/Installing_Windows8_Ubuntu_3.webp)
 
 Clicking on OK in the previous step will bring you to the partition screen. Next, create a swap. Like previously, click on the + sign again. This time, use the file type as the Swap area. If you have 2 GB or less RAM, use swap double the size of RAM. If you have 3-6 GB of RAM, use a swap of the same size as RAM. If you have 8 GB or more RAM, you may use swap half the size of RAM (unless you have plenty of disk space, and you want to use hibernation and in that case, use a swap of at least the same size as RAM).
 
-![](assets\Installing_Windows8_Ubuntu_4.webp)
+![](assets/Installing_Windows8_Ubuntu_4.webp)
 
 Similarly, create a Home partition. Allocate it maximum space (in fact allocate it the rest of the free space) because this is where you’ll save music, pictures and downloaded files.
 
-![](assets\Installing_Windows8_Ubuntu_5.webp)
+![](assets/Installing_Windows8_Ubuntu_5.webp)
 
 Once you are ready with Root, Swap and Home, click on Install Now
 
-![](assets\Installing_Windows8_Ubuntu_6.jpeg)
+![](assets/Installing_Windows8_Ubuntu_6.jpeg)
 
 Proceed forward with selecting timezone and click continue.
 
-![](assets\installing-ubuntu-timezone-selection-800x480.webp)
+![](assets/installing-ubuntu-timezone-selection-800x480.webp)
 
 Next, you’ll be asked to enter a username, hostname (computer’s name) and password.
 
 Now you need to wait for some minutes to complete the installation.
 
-![](assets\installing-ubuntu.webp)
+![](assets/installing-ubuntu.webp)
 
 Once the installation finishes, restart the system.
 
-![](assets\restart-after-installing-ubuntu.webp)
+![](assets/restart-after-installing-ubuntu.webp)
 
 If everything goes smoothly, you should see the grub screen once the system powers on. 
 Here, you can choose Ubuntu to boot into Ubuntu and Windows boot manager to boot into Windows.
 
-![](assets\dual-boot-grub-screen.jpg)
+![](assets/dual-boot-grub-screen.jpg)
 
 </details>
 
