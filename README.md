@@ -14,3 +14,5 @@ Lecture notes, codes and documentations for the ROS1 workshop held in BMS Colleg
 - [Creating a simple Publisher and Subscriber (Python3)](documents/simple_pubsub_py3.md)
 - [Creating a simple Server & Client (Python3)](documents/simple_server_client_py3.md)
 - [Understanding Launch File](documents/launch_files_tutorial.md)
+- [Installation of Turtlebot3 Simulation](documents/turtlebot3_installation.md)
+- [Turtlebot3 Experiments](documents/turtlebot3_experiments.md)
