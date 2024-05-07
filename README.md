@@ -4,7 +4,8 @@ Lecture notes, codes and documentations for the ROS1 workshop held in BMS Colleg
 # Prerequisites
 [Installation of Ubuntu 20.04 LTS alongside Windows](documents/ubuntu_installation.md)
 
-# Day 1 Documents
+# Day 1 Documents & Lecture Notes
 - [Installation of ROS Noetic](documents/ros_noetic_installation.md)
 - [Understand ROS Node with Turtlesim](documents/turtlesim_rosnode.md)
 - [Understand ROS Topic with Turtlesim](documents/turtlesim_rostopic.md)
+- [Day 1 Lecture Notes](lecture_notes/ROS1_Workshop_2024_Day_1.pdf)
