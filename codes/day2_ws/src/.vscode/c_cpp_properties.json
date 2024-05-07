@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kalai/day2_workshop/devel/include/**",
+        "/home/kalai/Desktop/robonautica_ws/devel/include/**",
+        "/home/kalai/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/kalai/catkin_ws/src/geometric_shapes/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/kalai/catkin_ws/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_ros/move_group/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_setup_assistant/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/kalai/catkin_ws/src/moveit_visual_tools/include/**",
+        "/home/kalai/catkin_ws/src/open_manipulator/open_manipulator_control_gui/include/**",
+        "/home/kalai/catkin_ws/src/open_manipulator/open_manipulator_controller/include/**",
+        "/home/kalai/catkin_ws/src/open_manipulator/open_manipulator_libs/include/**",
+        "/home/kalai/catkin_ws/src/open_manipulator/open_manipulator_teleop/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/kalai/Desktop/robonautica_ws/src/realsense_ros_gazebo/include/**",
+        "/home/kalai/catkin_ws/src/open_manipulator_dependencies/roboticsgroup_gazebo_plugins/include/**",
+        "/home/kalai/catkin_ws/src/rviz_visual_tools/include/**",
+        "/home/kalai/catkin_ws/src/moveit/moveit_planners/sbpl/core/sbpl_interface/include/**",
+        "/home/kalai/catkin_ws/src/srdfdom/include/**",
+        "/home/kalai/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/kalai/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,4 +1,4 @@
-# roslaunch
+# ROS Launch
 
 roslaunch is used for starting many nodes at once.
 
@@ -95,31 +95,32 @@ create another file
 <?xml version="1.0"?>
 <launch>
 
-    <include file="$(find learning_pkg)/launch/bringup_tbsim.launch">
+    <include file="$(find learn_pkg)/src/launch/bringup_tbsim.launch">
         <arg name="name" value="tbsim_1"/>
         <arg name="keyboard_name" value="tbsim_kb_1"/>
 
     </include>
+    
 
-   <include file="$(find learning_pkg)/launch/bringup_tbsim.launch">
+   <include file="$(find learn_pkg)/src/launch/bringup_tbsim.launch">
         <arg name="name" value="tbsim_2"/>
         <arg name="keyboard_name" value="tbsim_kb_2"/>
     
     </include>
 
-    <include file="$(find learning_pkg)/launch/bringup_tbsim.launch">
+    <include file="$(find learn_pkg)/src/launch/bringup_tbsim.launch">
         <arg name="name" value="tbsim_3"/>
         <arg name="keyboard_name" value="tbsim_kb_3"/>
  
     </include>
 
-    <include file="$(find learning_pkg)/launch/bringup_tbsim.launch">
+    <include file="$(find learn_pkg)/src/launch/bringup_tbsim.launch">
         <arg name="name" value="tbsim_4"/>
         <arg name="keyboard_name" value="tbsim_kb_4"/>
   
     </include>
 
-    <include file="$(find learning_pkg)/launch/bringup_tbsim.launch">
+    <include file="$(find learn_pkg)/src/launch/bringup_tbsim.launch">
         <arg name="name" value="tbsim_5"/>
         <arg name="keyboard_name" value="tbsim_kb_5"/>
 

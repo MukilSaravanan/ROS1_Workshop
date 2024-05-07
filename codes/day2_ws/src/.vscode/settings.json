@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kalai/day2_workshop/devel/lib/python3/dist-packages",
+        "/home/kalai/Desktop/robonautica_ws/devel/lib/python3/dist-packages",
+        "/home/kalai/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kalai/day2_workshop/devel/lib/python3/dist-packages",
+        "/home/kalai/Desktop/robonautica_ws/devel/lib/python3/dist-packages",
+        "/home/kalai/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
