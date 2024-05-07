@@ -9,3 +9,8 @@ Lecture notes, codes and documentations for the ROS1 workshop held in BMS Colleg
 - [Understand ROS Node with Turtlesim](documents/turtlesim_rosnode.md)
 - [Understand ROS Topic with Turtlesim](documents/turtlesim_rostopic.md)
 - [Day 1 Lecture Notes](lecture_notes/ROS1_Workshop_2024_Day_1.pdf)
+
+# Day 2 Documents 
+- [Creating a simple Publisher and Subscriber (Python3)](documents/simple_pubsub_py3.md)
+- [Creating a simple Server & Client (Python3)](documents/simple_server_client_py3.md)
+- [Understanding Launch File](documents/launch_files_tutorial.md)
