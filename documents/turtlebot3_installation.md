@@ -89,3 +89,8 @@ Insert the below script in  `~/.bashrc`
 ```
 $ export TURTLEBOT3_MODEL=burger
 ```
+
+
+# Reference
+--------
+[1] [Installation of Turtlebot3 Simulation](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/)
