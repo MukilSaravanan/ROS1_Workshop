@@ -32,13 +32,6 @@ Please use the proper keyword among `burger`, `waffle`, `waffle_pi` for the `TUR
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ```
 
-## Run RViz node
-RViz visualizes published topics while simulation is running. You can launch RViz in a new terminal window by entering below command.
-
-```
-$ roslaunch turtlebot3_gazebo turtlebot3_gazebo_rviz.launch
-```
-
 ## Save Map
 When the map is created successfully, open a new terminal from Remote PC with `Ctrl + Alt + T` and save the map.
 
@@ -53,4 +46,4 @@ Open a new terminal from Remote PC with `Ctrl + Alt + T` and run the Navigation 
 $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 ```
 # Reference
-[1] [Turtlebot3 Simulation](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
+[1] [Turtlebot3 Simulation Experiments](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
