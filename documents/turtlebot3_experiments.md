@@ -52,3 +52,5 @@ Open a new terminal from Remote PC with `Ctrl + Alt + T` and run the Navigation 
 ```
 $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 ```
+# Reference
+[1] [Turtlebot3 Simulation](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
